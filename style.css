@@ -28,7 +28,7 @@ section.main {
 
     width: 100%;
     min-height: 100%;
-    background-image: url('tesla.jpg');
+    background-image: url("img/tesla.jpg");
     background-position: center;
     background-size: cover;
 
@@ -38,7 +38,7 @@ section.main1 {
 
     width: 100%;
     min-height: 100%;
-    background-image: url('MODEL.jpg');
+    background-image: url("img/MODEL.jpg");
     background-position: center;
     background-size: cover;
 }
